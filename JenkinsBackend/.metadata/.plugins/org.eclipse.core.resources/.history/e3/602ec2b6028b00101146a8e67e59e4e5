@@ -1,0 +1,5 @@
+package com.sportsclub.backend.model;
+
+public class Member {
+
+}

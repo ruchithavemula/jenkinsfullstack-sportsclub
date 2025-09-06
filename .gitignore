@@ -1,0 +1,17 @@
+# Node (React)
+JenkinsFrontend/SportsClubFrontend/node_modules/
+JenkinsFrontend/SportsClubFrontend/dist/
+JenkinsFrontend/SportsClubFrontend/.vite/
+JenkinsFrontend/SportsClubFrontend/.env
+
+# Maven/Java (Spring Boot)
+JenkinsBackend/SportsClubBackend/target/
+*.log
+*.class
+/.idea
+/.vscode
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

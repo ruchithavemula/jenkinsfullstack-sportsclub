@@ -1,0 +1,5 @@
+package com.sportsclub.backend.service;
+
+public class MemberService {
+
+}

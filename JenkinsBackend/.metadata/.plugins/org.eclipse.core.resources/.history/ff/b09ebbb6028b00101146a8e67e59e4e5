@@ -1,0 +1,5 @@
+package com.sportsclub.backend.repository;
+
+public class MemberRepository {
+
+}
