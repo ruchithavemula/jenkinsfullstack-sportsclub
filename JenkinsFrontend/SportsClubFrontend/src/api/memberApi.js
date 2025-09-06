@@ -1,6 +1,5 @@
 import axios from "axios";
-
-const API_URL = "http://localhost:8080/api/members";
+import { API_URL } from "../config";
 
 export const getMembers = () => axios.get(API_URL);
 export const createMember = (member) => axios.post(API_URL, member);
