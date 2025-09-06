@@ -1,6 +1,6 @@
 import axios from "axios";
-const API_URL = "http://localhost:2030/sportsclub-backend/api/members";
 
+const API_URL = "http://localhost:8080/api/members";
 
 export const getMembers = () => axios.get(API_URL);
 export const createMember = (member) => axios.post(API_URL, member);
